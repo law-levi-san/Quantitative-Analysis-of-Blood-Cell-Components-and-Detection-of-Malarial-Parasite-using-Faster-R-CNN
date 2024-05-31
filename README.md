@@ -12,3 +12,10 @@ microscopic sample analysis. Extensive experimentation confirms our method's
 efficacy in accurately identifying various blood components and malaria parasites, 
 demonstrating its potential to revolutionize medical diagnostics and significantly 
 improve patient outcomes in hematology and infectious diseases.
+
+The Blood cell dataset has been taken from the Shenggan BCCD dataset available on Github. 
+The malarial dataset consists of the Plasmodium Vivax parasite within the images which can be found in 'malaria_images.zip' file.
+Blood cell images generated using GANs and the enhanced resolution using Real-ESRGAN can be found in 'Real-ESRGAN Enhanced Blood cell dataset.zip' file.
+
+![image](https://github.com/mai420/Quantitative-Analysis-of-Blood-Cell-Components-and-Detection-of-Malarial-Parasite-using-Faster-R-CNN/assets/99639678/10a7dbc1-8a24-4b45-95a4-eedce229e6dd)
+![image](https://github.com/mai420/Quantitative-Analysis-of-Blood-Cell-Components-and-Detection-of-Malarial-Parasite-using-Faster-R-CNN/assets/99639678/9963f087-b8b7-4b5e-b3e9-d59288e3f380)
