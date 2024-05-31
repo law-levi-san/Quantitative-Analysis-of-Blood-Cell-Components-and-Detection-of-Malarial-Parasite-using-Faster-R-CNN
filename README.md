@@ -1,4 +1,4 @@
-# Quantitative-Analysis-of-Blood-Cell-Components-and-Detection-of-Malarial-Parasite(P Vivax) using-Faster-R-CNN
+# Quantitative-Analysis-of-Blood-Cell-Components-and-Detection-of-Malarial-Parasite (P.Vivax) using-Faster-R-CNN
 
 This project introduces an advanced automated system utilizing the Faster R-CNN 
 architecture for precise detection of red blood cells (RBCs), white blood cells 
