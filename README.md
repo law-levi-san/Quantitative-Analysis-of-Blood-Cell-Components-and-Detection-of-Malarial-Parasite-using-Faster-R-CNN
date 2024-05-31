@@ -20,7 +20,7 @@ Blood cell images generated using GANs and the enhanced resolution using Real-ES
 ![image](https://github.com/mai420/Quantitative-Analysis-of-Blood-Cell-Components-and-Detection-of-Malarial-Parasite-using-Faster-R-CNN/assets/99639678/10a7dbc1-8a24-4b45-95a4-eedce229e6dd)
 ![image](https://github.com/mai420/Quantitative-Analysis-of-Blood-Cell-Components-and-Detection-of-Malarial-Parasite-using-Faster-R-CNN/assets/99639678/9963f087-b8b7-4b5e-b3e9-d59288e3f380)
 
-The Faster R-CNN codes for the mentioned datasets is given by:\n
+The Faster R-CNN codes for the mentioned datasets is given by:
 BCCD dataset is available in 'FRCNN_RBC_WBC_PLATELETS.ipynb'
 Malarial dataset is avaiable in 'malaria_red.ipynb' 
 GAN generated images on the BCCD dataset is available in 'BCCD+GAN.ipynb'
